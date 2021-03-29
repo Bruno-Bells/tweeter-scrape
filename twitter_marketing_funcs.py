@@ -1,5 +1,5 @@
 import sys  
-sys.path.insert(0, '/Users/dr_d3mz/Documents/GitHub/Bloverse_Data_Science/Twitter Marketing/Functions') # insert the path to your functions folder
+#sys.path.insert(0, '/Users/dr_d3mz/Documents/GitHub/Bloverse_Data_Science/Twitter Marketing/Functions') # insert the path to your functions folder
 
 import os
 import twint
